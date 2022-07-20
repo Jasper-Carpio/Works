@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.primobank">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PrimoBank">
+        <activity
+            android:name=".activities.DataPrivacyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SavingGoalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ResetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PayBillsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BankTransferActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BuyLoadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CashInActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SendMoneyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.QRCodeScannerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DashboardActivity"
+            android:exported="true" />
+        <activity android:name=".activities.LogInActivity" />
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.AuthenticationActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.EnterMobileNumberActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".activities.MainActivity" />
+        <activity
+            android:name=".activities.SplashScreenActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

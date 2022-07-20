@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_bills">
+        <item>Meralco</item>
+        <item>Manila Water</item>
+        <item>Maynilad</item>
+        <item>Converge ICT</item>
+        <item>Globe</item>
+        <item>Smart</item>
+        <item>Sky Fiber</item>
+        <item>PLDT</item>
+    </array>
+</resources>

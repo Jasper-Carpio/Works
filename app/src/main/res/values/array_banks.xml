@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_banks">
+        <item>BDO Unibank, Inc.</item>
+        <item>BPI / BPI Family Savings Bank</item>
+        <item>East West Banking Corporation</item>
+        <item>LANDBANK / OFBank</item>
+        <item>Metropolitan Bank and Trust Co.</item>
+        <item>Robinsons Bank Corporation</item>
+        <item>Security Bank Corporatio</item>
+        <item>UCPB Savings Bank</item>
+        <item>Union Bank of the Philippines</item>
+    </array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_transaction_types">
+        <item>All</item>
+        <item>Send Money</item>
+        <item>Cash In</item>
+        <item>Buy Load</item>
+        <item>Bank Transfer</item>
+        <item>Pay Bills</item>
+        <item>Saving Goal</item>
+        <item>Withdrawal - Savings Goal</item>
+    </array>
+</resources>

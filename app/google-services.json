@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203762473931",
+    "firebase_url": "https://primobank-91d9e-default-rtdb.firebaseio.com",
+    "project_id": "primobank-91d9e",
+    "storage_bucket": "primobank-91d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203762473931:android:2b8301cf920c214559344e",
+        "android_client_info": {
+          "package_name": "com.example.primobank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203762473931-427esr98s91ens2fjmhgqnm7k4vtkh2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.primobank",
+            "certificate_hash": "d5ee17d3086cad22e1bd6e6a1091755d79d68fc8"
+          }
+        },
+        {
+          "client_id": "203762473931-ousjgjstcev6s1iuj190htubvg6h9pq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7OIt-3dxnkL_pl_fa5br6AwacdX7aj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203762473931-ousjgjstcev6s1iuj190htubvg6h9pq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

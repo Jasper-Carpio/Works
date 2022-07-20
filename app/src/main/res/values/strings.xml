@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primo Bank</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="_123456">123456</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
