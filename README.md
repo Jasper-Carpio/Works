@@ -38,3 +38,11 @@ User's Manual
 
 
 
+
+Click the link below
+
+https://www.youtube.com/watch?v=BiSuU-cir_Y
+
+
+
+
