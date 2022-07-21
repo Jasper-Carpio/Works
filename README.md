@@ -12,16 +12,7 @@ BSCS-3C
 
 Group 7
 
-
-
-
-
-
-
-
-
 Leader: Jasper N. Carpio
-
 
 Members:
 
@@ -29,50 +20,5 @@ Jerika Charisse G. Perizuelo
 
 Camila Joy DP. Lagao
 
-
 Redondo B. Lesmoras, Jr.
-
-
-
-
-
-
-
-
-
-User’s Manual
-
-
-
-
-
-
-Primo Bank
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
 
