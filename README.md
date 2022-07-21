@@ -7,3 +7,33 @@ Members:
 Jerika Charisse Perizuelo
 Camila DP. Lagao
 Redondo B. Lesmoras, Jr.
+User’s Manual
+Primo Bank
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
