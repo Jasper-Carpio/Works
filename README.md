@@ -28,7 +28,8 @@ Redondo B. Lesmoras, Jr.
 
 **User's Manual**
 
-**P ![](RackMultipart20220721-1-ovuall_html_5d7dac07c71df7b8.jpg) rimo Bank**
+** ![](![image](https://user-images.githubusercontent.com/109411689/180184894-40059629-2a59-4308-b8f8-696b8036c365.png)
+) Primo Bank**
 
 Make Every Penny Matter
 
