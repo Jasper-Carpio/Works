@@ -1,5 +1,10 @@
 Primo Bank App
-Eulogio "Amang" Rodriguez Institute of Science and Technology ITE Department
+
+
+
+Eulogio "Amang" Rodriguez Institute of Science and Technology 
+
+ITE Department
 BSCS-3C 
 
 
@@ -20,9 +25,9 @@ Leader: Jasper N. Carpio
 
 Members:
 
-Jerika Charisse Perizuelo
+Jerika Charisse G. Perizuelo
 
-Camila DP. Lagao
+Camila Joy DP. Lagao
 
 
 Redondo B. Lesmoras, Jr.
