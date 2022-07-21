@@ -27,6 +27,12 @@ User's Manual
 
 ![image](https://user-images.githubusercontent.com/109411689/180190005-38ad7089-946d-4717-8b60-14566af9a1a7.png)
 
+![image](https://user-images.githubusercontent.com/109411689/180198981-6bf79aa5-9625-4f70-ad0c-f4d4fb55a4a1.png)
+
+![image](https://user-images.githubusercontent.com/109411689/180199567-4668c014-b36e-4cd3-aa6d-22fa25bc8697.png)
+
+
+
 
 
 
