@@ -37,13 +37,9 @@ User's Manual
 
 ![image](https://user-images.githubusercontent.com/109411689/180203329-e186f628-4195-4165-ab8a-ab1ab3ff8e17.png)
 
+![image](https://user-images.githubusercontent.com/109411689/180204078-9c29c878-649c-4996-9680-bc36d343e124.png)
 
+![image](https://user-images.githubusercontent.com/109411689/180204492-9397e188-863d-49e4-a78e-40782af654ad.png)
 
-  
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/109411689/180205242-e13129bb-4ba6-46c6-a8c9-de52e5ba9799.png)
 
