@@ -21,9 +21,9 @@ Redondo B. Lesmoras, Jr.
 
 User's Manual
 
-![image](https://user-images.githubusercontent.com/109411689/180186442-1fad4340-e0d2-4125-a4fe-97863014b297.png)
+![image](https://user-images.githubusercontent.com/109411689/180187995-464e367f-97a6-4310-80b5-3da97f073127.png)
 
-Front Page
+
 
 
 
