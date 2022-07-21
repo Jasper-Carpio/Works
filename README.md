@@ -1,1 +1,9 @@
-# Works![image](https://user-images.githubusercontent.com/109411689/180164833-4c87c854-3d09-4f3c-ae5e-b30b4f0dafb8.png)
+Primo Bank App
+Eulogio "Amang" Rodriguez Institute of Science and Technology ITE Deaprtment
+BSCS-3C 
+Group 7
+Leader: Jasper N. Carpio
+Members:
+Jerika Charisse Perizuelo
+Camila DP. Lagao
+Redondo B. Lesmoras, Jr.
