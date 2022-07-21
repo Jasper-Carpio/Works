@@ -43,3 +43,4 @@ User's Manual
 
 ![image](https://user-images.githubusercontent.com/109411689/180205242-e13129bb-4ba6-46c6-a8c9-de52e5ba9799.png)
 
+Primo Bank App Video: https://www.youtube.com/watch?v=BiSuU-cir_Y
