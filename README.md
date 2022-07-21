@@ -25,7 +25,9 @@ User's Manual
     <img width="33%" src="![image](https://user-images.githubusercontent.com/109411689/180189205-38d907b6-495e-4b5f-854d-a8af580d8798.png)"> 
 </p>
   
-
+<p align="center" width="100%">
+    <img width="33%" src="![image](https://user-images.githubusercontent.com/109411689/180199567-4668c014-b36e-4cd3-aa6d-22fa25bc8697.png)"> 
+</p>
 
 ![image](https://user-images.githubusercontent.com/109411689/180188508-c5158db8-ea67-495e-885f-d6045b2c095b.png)
 
@@ -33,7 +35,7 @@ User's Manual
 
 ![image](https://user-images.githubusercontent.com/109411689/180198981-6bf79aa5-9625-4f70-ad0c-f4d4fb55a4a1.png)
 
-![image](https://user-images.githubusercontent.com/109411689/180199567-4668c014-b36e-4cd3-aa6d-22fa25bc8697.png)
+
   
 
 
